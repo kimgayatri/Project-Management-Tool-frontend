@@ -1,16 +1,14 @@
-#Project Management Tool-Frontend
-# Project Management Tool
+# Project Management Tool-Frontend
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
+- [Output](#output)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -29,9 +27,11 @@ The Project Management tool with react and express is a comprehensive project ma
 - Track the progress of tasks and projects
 - User authentication and authorization
 
-## Demo
+## Output
 
-Check out the live demo of the Project Management Tool [here](https://project-management-tool-aspire-nex.vercel.app/).
+![Image](https://github.com/user-attachments/assets/3fdf0417-0e9a-4801-8a91-5aa0df4c2d95)
+
+![Image](https://github.com/user-attachments/assets/02298953-1cc3-4d69-bab2-83402edf971f)
 
 ## Getting Started
 
@@ -52,7 +52,7 @@ Ensure you have the following installed:
 git clone https://github.com/kimgayatri/Project-Management-Tool-frontend.git
 ```
 ```bash
-cd project-management-tool
+cd Project-Management-Tool-Frontend
 
 npm install
 # or
@@ -65,34 +65,5 @@ npm start
 # or
 yarn start
 ```
-# Folder Structure
-```
-project-management-tool/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── Project.js
-│   │   ├── Task.js
-│   │   └── ...
-│   ├── redux/
-│   │   ├── actions/
-│   │   ├── reducers/
-│   │   └── store.js
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── package.json
-└── ...
-```
 
 
-#Output1:
-
-![Image](https://github.com/user-attachments/assets/3fdf0417-0e9a-4801-8a91-5aa0df4c2d95)
-
-
-#Output2:
-
-![Image](https://github.com/user-attachments/assets/02298953-1cc3-4d69-bab2-83402edf971f)
